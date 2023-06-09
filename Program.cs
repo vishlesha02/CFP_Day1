@@ -1,4 +1,4 @@
-﻿using ConsoleAppDemo;
+﻿/*using ConsoleAppDemo;
 using System;
 
 namespace Hello
@@ -7,9 +7,9 @@ namespace Hello
     {
 
         static void Main(String[] args)
-        {
+        {*//*
             RandomNumber obj = new RandomNumber();
-            obj.coinf();
+            obj.coinf();*/
 
             /* LeapYear obj = new LeapYear();
              obj.leapy(); */
@@ -33,11 +33,17 @@ namespace Hello
 
             /*vowelCase obj = new vowelCase();
             obj.vc();*/
+
+
             /*
-                        largestNumber obj = new largestNumber();
-                        obj.largenum();*/
+            largestNumber obj = new largestNumber();
+            obj.largenum();*//*
+
+            powerOfTwo obj = new powerOfTwo();
+            obj.power();
+
         }
 
        
     }
-}
+}*/

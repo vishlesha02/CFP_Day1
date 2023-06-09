@@ -31,13 +31,13 @@ namespace ConsoleAppDemo
                 {
                     Console.WriteLine("Tails");
 
-                    tailCount = tailCount + 1;
+                    tailCount++;
                 }
                 else
                 {
                     Console.WriteLine("Head");
 
-                    headCount = headCount + 1;
+                    headCount++;
                 }
 
             }
